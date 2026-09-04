@@ -10,9 +10,12 @@
 - Has a functional sidebar
 - Has a functional color change for every new note
 - Has a functional add a new note
+##REVIEW
+<img width="1920" height="1036" alt="image" src="https://github.com/user-attachments/assets/cf98861f-6890-415e-9a18-3b5046bc6821" />
+<img width="1920" height="1036" alt="image" src="https://github.com/user-attachments/assets/81e17a70-29b9-496b-94e2-b132b753633d" />
 
 ## WHAT IS THE CLICKER GAME?
-- It is a game called Cucumber Clicker
+- It is a game called Clicker gmae
 - Version 1.5
 - Has a lot of items
 
