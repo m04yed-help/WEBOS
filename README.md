@@ -42,7 +42,7 @@
 ## HOW TO USE IT?
 - just install the file by
  ```bash
-$ git clone [https://github.com/m04yed-help/WEBOS.git](https://github.com/m04yed-help/WEBOS.git)
+ git clone https://github.com/m04yed-help/WEBOS.git
 ``` 
 - exract the files and just double click into index.html
 ## NEXT GOALS
