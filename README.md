@@ -15,6 +15,10 @@
 - Version 1.5
 - Has a lot of items
 
+##REVIEW
+<img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/fc263d09-6419-4588-bafa-82232d2018f1" />
+<img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/c1c2cd30-2607-49fa-936e-9b592636d063" />
+
 ## WHAT IS THE BACKGROUND SETTINGS?
 - Allows you to customize the OS
 - You can upload custom images
@@ -35,6 +39,12 @@
 - Monitors every single app
 - Shows you all the total time you have been on the os
 
+## HOW TO USE IT?
+- just install the file by
+ ```bash
+$ git clone [https://github.com/m04yed-help/WEBOS.git](https://github.com/m04yed-help/WEBOS.git)
+``` 
+- exract the files and just double click into index.html
 ## NEXT GOALS
 - Make a Cyberdeck powered by Raspberry pi 5
 - Attend the outpost Hackathon with the Cyberdeck as a x - tier project (maybe)
