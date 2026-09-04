@@ -12,7 +12,6 @@
 - Has a functional add a new note
 
 ## WHAT IS THE CLICKER GAME?
-- It is a game called Cucumber Clicker
 - Version 1.5
 - Has a lot of items
 
